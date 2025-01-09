@@ -11,3 +11,9 @@ This is my first repository ever created.
 2. Meteoro
 3. Redline
 4. Duro de matar 
+
+## Music 
+1. Classic music
+2. EDM
+3. Salsa
+4. Chicha
